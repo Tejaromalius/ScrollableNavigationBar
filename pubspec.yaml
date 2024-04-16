@@ -1,0 +1,19 @@
+name: scrollable_navigation_bar
+description: "A horizontally scrollable NavigationBar
+  for Flutter."
+version: 1.0.0
+homepage: https://github.com/Tejaromalius/ScrollableNavigationBar
+repository: https://github.com/Tejaromalius/ScrollableNavigationBar
+documentation: https://github.com/Tejaromalius/ScrollableNavigationBar/blob/main/REAMDE.md
+topics:
+  - flutter
+  - navigation-bar
+  - ui
+
+environment:
+  sdk: ">=3.2.6 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
