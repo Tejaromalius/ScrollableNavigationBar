@@ -1,3 +1,9 @@
+## v1.0.1
+
+**⚒️ Fixed:**
+
+- `README.md`: Updated and corrected documentation.
+
 ## v1.0.0
 
 **✴️ Added:**

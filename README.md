@@ -1,10 +1,12 @@
 # ScrollableNavigationBar
 
-This widget provides a scrollable version of Flutter's built-in `NavigationBar`, allowing users to navigate through a larger number of destinations by swiping horizontally.
+![Pub Version](https://img.shields.io/pub/v/scrollable_navigation_bar?style=flat&logo=dart&color=green)
+
+This widget provides a scrollable version of Flutter's built-in `NavigationBar`, allowing users to navigate through destinations by swiping horizontally.
 
 ## Key Features:
 
-- **Scrollable:** Enables horizontal scrolling to access hidden navigation items.
+- **Scrollable:** Enables horizontal scrolling to access navigation items.
 - **Customizable:** Leverages all existing properties from the `NavigationBar` widget for customization (see [`NavigationBar`](https://api.flutter.dev/flutter/material/NavigationBar-class.html) documentation for details).
 
 ## Usage:
